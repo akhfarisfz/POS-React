@@ -1,0 +1,6 @@
+{
+  "name": "Kharisma POS Kasir",
+  "description": "Sistem POS Kasir Percetakan modern berbasis React & Tauri dengan Supabase, Manajemen Katalog 1-Tabel, cetak struk thermal, laporan keuangan, dan datatable interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
